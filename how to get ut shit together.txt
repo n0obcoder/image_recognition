@@ -1,0 +1,24 @@
+if u are on a 64 bit system,
+from PIL import Image
+
+........................................
+
+
+jupyter pe from PIL import Image
+is working
+and import Image isn't
+
+same is true for IDLE
+
+# this PIL means pillow and not the python imaging library
+
+..........................................
+
+save ur .py or .IPYNB file in the same directory as the images folder is in
+.py file should work bt u need to check for the .IPYNB file urself
+
+i checked for the .IPYNB file and it worked !!!
+
+...........................................
+
+
