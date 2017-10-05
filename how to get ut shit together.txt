@@ -20,5 +20,3 @@ save ur .py or .IPYNB file in the same directory as the images folder is in
 i checked for the .IPYNB file and it worked !!!
 
 ...........................................
-
-
